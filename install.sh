@@ -35,6 +35,7 @@ install_packages() {
         "git"
         "git-man"
         "gettext"
+        "kitty"
         "libghc-xmonad-contrib-dev"
         "libghc-xmonad-contrib-doc"
         "libghc-xmonad-dev"
